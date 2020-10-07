@@ -1,8 +1,7 @@
 import discord
 from discord.ext import commands
 import random
-from discord import Game
-TOKEN = 'NzMwMzU0MjY4MzE3NTQ4NTY0.XwWV5g.stoKK_ueDq9TPnqnEiUdeQM61JQ'
+TOKEN = 'XXXXXXXXXXXXXXXXXXXXX'
 
 
 BOT_PREFIX = ("?", "!")
